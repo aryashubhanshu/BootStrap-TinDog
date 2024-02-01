@@ -1,3 +1,5 @@
 # BootStrap-TinDog
 
-Simple TinDog Website created using BootStrap
+Learned the Bootstrap Framework
+
+Check out @https://aryashubhanshu.github.io/BootStrap-TinDog/
